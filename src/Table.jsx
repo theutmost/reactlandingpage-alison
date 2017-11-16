@@ -33,7 +33,7 @@ constructor(props) {
         return [
             <div className="tourBG" key="1">
                 <div className="topTour">
-                    <img key="2" className="topRose" src="../images/AW_ROSE.png" />
+                    <img key="2" className="topRose" src="./public/images/AW_ROSE.png" />
                     <p>TOUR DATES</p>
                 </div>
 
